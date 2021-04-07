@@ -8,7 +8,6 @@ trigger:
   branches:
     include:
     - master
-    - code-workflow
     exclude:
     - README.md
 
